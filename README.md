@@ -32,4 +32,4 @@ Valerie Michalecki: [github.com/vmichalecki](https://github.com/vmichalecki)
 
 ## Screenshots
 
-![React Portfolio](../../images/react-portfolio.png)
+![React Portfolio](./src/images/react-portfolio.png)
