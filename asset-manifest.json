@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.697dcd3a.chunk.css",
-    "main.js": "/react-app/static/js/main.9491a707.chunk.js",
-    "main.js.map": "/react-app/static/js/main.9491a707.chunk.js.map",
-    "runtime-main.js": "/react-app/static/js/runtime-main.eca92ada.js",
-    "runtime-main.js.map": "/react-app/static/js/runtime-main.eca92ada.js.map",
-    "static/js/2.25d09369.chunk.js": "/react-app/static/js/2.25d09369.chunk.js",
-    "static/js/2.25d09369.chunk.js.map": "/react-app/static/js/2.25d09369.chunk.js.map",
-    "index.html": "/react-app/index.html",
-    "static/css/main.697dcd3a.chunk.css.map": "/react-app/static/css/main.697dcd3a.chunk.css.map",
-    "static/js/2.25d09369.chunk.js.LICENSE.txt": "/react-app/static/js/2.25d09369.chunk.js.LICENSE.txt",
-    "static/media/atlas.bd5dc75d.png": "/react-app/static/media/atlas.bd5dc75d.png",
-    "static/media/keyboard.c4c6d33c.png": "/react-app/static/media/keyboard.c4c6d33c.png",
-    "static/media/mother.ce514c9d.png": "/react-app/static/media/mother.ce514c9d.png",
-    "static/media/weather.10dbb489.png": "/react-app/static/media/weather.10dbb489.png"
+    "main.css": "/react-porfolio/static/css/main.697dcd3a.chunk.css",
+    "main.js": "/react-porfolio/static/js/main.9491a707.chunk.js",
+    "main.js.map": "/react-porfolio/static/js/main.9491a707.chunk.js.map",
+    "runtime-main.js": "/react-porfolio/static/js/runtime-main.5235ea8d.js",
+    "runtime-main.js.map": "/react-porfolio/static/js/runtime-main.5235ea8d.js.map",
+    "static/js/2.25d09369.chunk.js": "/react-porfolio/static/js/2.25d09369.chunk.js",
+    "static/js/2.25d09369.chunk.js.map": "/react-porfolio/static/js/2.25d09369.chunk.js.map",
+    "index.html": "/react-porfolio/index.html",
+    "static/css/main.697dcd3a.chunk.css.map": "/react-porfolio/static/css/main.697dcd3a.chunk.css.map",
+    "static/js/2.25d09369.chunk.js.LICENSE.txt": "/react-porfolio/static/js/2.25d09369.chunk.js.LICENSE.txt",
+    "static/media/atlas.bd5dc75d.png": "/react-porfolio/static/media/atlas.bd5dc75d.png",
+    "static/media/keyboard.c4c6d33c.png": "/react-porfolio/static/media/keyboard.c4c6d33c.png",
+    "static/media/mother.ce514c9d.png": "/react-porfolio/static/media/mother.ce514c9d.png",
+    "static/media/weather.10dbb489.png": "/react-porfolio/static/media/weather.10dbb489.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eca92ada.js",
+    "static/js/runtime-main.5235ea8d.js",
     "static/js/2.25d09369.chunk.js",
     "static/css/main.697dcd3a.chunk.css",
     "static/js/main.9491a707.chunk.js"
